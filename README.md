@@ -1,4 +1,4 @@
-![](https://1.bp.blogspot.com/-Jhgz-dQlPb8/YPI847tnTbI/AAAAAAAAA_Y/hyrIAmqd26EGp8-Rp7baM8PwX3cpvEGKACLcBGAsYHQ/s2335/git_github.png)
+![](https://1.bp.blogspot.com/-naGOYdoM-OY/YPI7RG-upDI/AAAAAAAAA_Q/F0nAxe8qlOI21iwX2Pj051BAkyU0y2AcQCLcBGAsYHQ/s2335/DIO.png)
 
 # Desafio de Projeto sobre Git/GitHub da DIO
 
