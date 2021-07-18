@@ -4,6 +4,6 @@
 
 Repositório criado para Desafio de projeto sobre Git/GitHub
 
-## Links Úteis
+## Links Últeis
 [Typora](https://typora.io/) - Progrma para ler e editar os arquivos Markdown
 
