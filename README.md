@@ -6,5 +6,5 @@ Repositório criado para os Projetos da DIO.
 ## Projeto Final Bootcamp | [everis Quality Assurance Beginner #2](https://github.com/abalsantana/dio-desafio-repository-github/tree/master)
 
 ## Links Úteis
-[Typora](https://typora.io/) - Progrma para ler e editar os arquivos Markdown
+[Typora](https://typora.io/) - Programa para ler e editar os arquivos Markdown
 
