@@ -2,7 +2,7 @@
 
 # Desafio de Projeto sobre Git/GitHub da DIO
 
-Repositório criado para Projetos da DIO.
+Repositório criado para os Projetos da DIO.
 ## Links Úteis
 [Typora](https://typora.io/) - Progrma para ler e editar os arquivos Markdown
 
