@@ -28,12 +28,12 @@ public class City {
     private Integer ibge;
 
     // 1st
-    @Column(name = "lat_lon")
+    @Column(name = "latlon")
     private String geolocation;
 
     // 2nd
     @Type(type = "point")
-    @Column(name = "lat_lon", updatable = false, insertable = false)
+    @Column(name = "latlon", updatable = false, insertable = false)
     private Point location;
 
     public City() {
