@@ -16,7 +16,7 @@ public class Country {
     @Column(name = "nome")
     private String name;
 
-    @Column(name = "nome_pt")
+    @Column(name = "nomept")
     private String portugueseName;
 
     @Column(name = "sigla")
