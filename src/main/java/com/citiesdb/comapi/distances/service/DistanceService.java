@@ -19,7 +19,7 @@ public class DistanceService {
     public DistanceService(final CityRepository cityRepository) {
         this.cityRepository = cityRepository;
     }
-
+    
     public Double distanceByPointsInMiles(final Long city1, final Long city2) {
         log.info("nativePostgresInMiles({}, {})", city1, city2);
         return cityRepository.distanceByPoints(city1, city2);
